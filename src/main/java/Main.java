@@ -48,14 +48,14 @@ public class Main {
             System.out.println("Корней нет");
             Logger.log("Корней нет");
         } else if(D == 0) {
-            long answer = (-b/(2*a));
-            System.out.println("x = " + answer);
-            Logger.log("x = " + answer);
+            double answer = (-b/(double)(2*a));
+            System.out.printf("x = %f", answer);
+            Logger.log(String.format("x = %f", answer));
         } else if (D > 0) {
-            double x1 = (-b+Math.sqrt(D))/(2*a);
-            double x2 = (-b-Math.sqrt(D))/(2*a);
+            double x1 = (-b+Math.sqrt(D))/(double) (2*a);
+            double x2 = (-b-Math.sqrt(D))/(double) (2*a);
 
-            System.out.printf("x1 = %.2f\nx2 = %.2f", x1,x2);
+            System.out.printf("x1 = %f\nx2 = %f", x1,x2);
             Logger.log(String.format("x1 = %.2f", x1));
             Logger.log(String.format("x2 = %.2f", x2));
          }
