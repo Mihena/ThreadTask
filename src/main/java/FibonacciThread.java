@@ -1,6 +1,6 @@
 public class FibonacciThread extends Thread {
 
-    private int N;
+    private final int N;
     private long answer;
 
     FibonacciThread(int N) {

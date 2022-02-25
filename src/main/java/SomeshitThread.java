@@ -1,6 +1,6 @@
 public class SomeshitThread extends Thread{
 
-    private int N;
+    private final int N;
     private long answer = 1;
 
     public long getAnswer() {

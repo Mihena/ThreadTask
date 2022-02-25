@@ -51,13 +51,13 @@ public class Main {
             double answer = (-b/(double)(2*a));
             System.out.printf("x = %f", answer);
             Logger.log(String.format("x = %f", answer));
-        } else if (D > 0) {
+        } else {
             double x1 = (-b+Math.sqrt(D))/(double) (2*a);
             double x2 = (-b-Math.sqrt(D))/(double) (2*a);
 
             System.out.printf("x1 = %f\nx2 = %f", x1,x2);
-            Logger.log(String.format("x1 = %.2f", x1));
-            Logger.log(String.format("x2 = %.2f", x2));
+            Logger.log(String.format("x1 = %f", x1));
+            Logger.log(String.format("x2 = %f", x2));
          }
         Logger.log();
     }
