@@ -56,8 +56,9 @@ public class Main {
             double x2 = (-b-Math.sqrt(D))/(2*a);
 
             System.out.printf("x1 = %.2f\nx2 = %.2f", x1,x2);
-            Logger.log(String.format("x1 = %.2f\nx2 = %.2f", x1,x2));
+            Logger.log(String.format("x1 = %.2f", x1));
+            Logger.log(String.format("x2 = %.2f", x2));
          }
-        Logger.log("");
+        Logger.log();
     }
 }

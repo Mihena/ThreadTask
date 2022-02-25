@@ -1,51 +1,53 @@
-N = 33
-FibonacciThread: 9227465
-SomeshitThread: -527
-RandomMultiplierThread: 70976805131232000
-Discriminant: 9145066538878846748
-x1 = -3845953471,90
-x2 = -3845953799,62
+25.02.2022 39.47.07 N = 11
+25.02.2022 39.47.07 FibonacciThread: 233
+25.02.2022 39.47.07 SomeshitThread: -54
+25.02.2022 39.47.07 RandomMultiplierThread: 30
+25.02.2022 39.47.07 Discriminant: 51228
+25.02.2022 39.47.07 x1 = 0,42
+x2 = -0,55
+25.02.2022 49.47.07 N = 3
+25.02.2022 49.47.07 FibonacciThread: 5
+25.02.2022 49.47.07 SomeshitThread: -2
+25.02.2022 49.47.07 RandomMultiplierThread: 1
+25.02.2022 49.47.07 Discriminant: 41
+25.02.2022 49.47.07 x1 = 0,54
+x2 = -0,74
+25.02.2022 21:48:07 N = 33
+25.02.2022 21:48:07 FibonacciThread: 9227465
+25.02.2022 21:48:07 SomeshitThread: -527
+25.02.2022 21:48:07 RandomMultiplierThread: 78952348823040000
+25.02.2022 21:48:07 Discriminant: 9175887598380795676
+25.02.2022 21:48:07 x1 = -4278116784,72
+x2 = -4278117113,00
 
-N = 3
-SomeshitThread: -2
-RandomMultiplierThread: 2
-FibonacciThread: 5
-Discriminant: 44
-x1 = 0,46
-x2 = -0,86
+25.02.2022 34:48:07 N = 11
+25.02.2022 34:48:07 FibonacciThread: 233
+25.02.2022 34:48:07 SomeshitThread: -54
+25.02.2022 34:48:07 RandomMultiplierThread: 120960
+25.02.2022 34:48:07 Discriminant: 14631371928
+25.02.2022 34:48:07 x1 = 0,00
+x2 = -519,14
 
-N = -5
-RandomMultiplierThread: 1
-SomeshitThread: 1
-FibonacciThread: 0
-Discriminant: 1
-x1 = NaN
-x2 = -Infinity
+25.02.2022 44:49:07 N = 1
+25.02.2022 44:49:07 RandomMultiplierThread: 1
+25.02.2022 44:49:07 SomeshitThread: 1
+25.02.2022 44:49:07 FibonacciThread: 2
+25.02.2022 44:49:07 Discriminant: -7
+25.02.2022 44:49:07 Корней нет
 
-Введённое число должно быть больше 0
-N = 11
-FibonacciThread: 233
-SomeshitThread: -54
-RandomMultiplierThread: 86400
-Discriminant: 7465010328
-x1 = 0,00
-x2 = -370,82
+25.02.2022 56:49:07 N = 3
+25.02.2022 56:49:07 FibonacciThread: 5
+25.02.2022 56:49:07 SomeshitThread: -2
+25.02.2022 56:49:07 RandomMultiplierThread: 1
+25.02.2022 56:49:07 Discriminant: 41
+25.02.2022 56:49:07 x1 = 0,54
+25.02.2022 56:49:07 x2 = -0,74
 
-Введённое число должно быть больше 0/n
-Введённое число должно быть больше 0
-
-N = 14
-FibonacciThread: 987
-SomeshitThread: -90
-RandomMultiplierThread: 1001
-Discriminant: 1357321
-x1 = 0,08
-x2 = -1,10
-
-N = 55
-FibonacciThread: 363076002
-SomeshitThread: -1484
-RandomMultiplierThread: 5803478894466039808
-Discriminant: -8439879885915005856
-Корней нет
+[25.02.2022 31:50:07] N = 11
+[25.02.2022 31:50:07] FibonacciThread: 233
+[25.02.2022 31:50:07] SomeshitThread: -54
+[25.02.2022 31:50:07] RandomMultiplierThread: 10800
+[25.02.2022 31:50:07] Discriminant: 116690328
+[25.02.2022 31:50:07] x1 = 0,00
+[25.02.2022 31:50:07] x2 = -46,36
 
